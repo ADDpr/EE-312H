@@ -1,0 +1,144 @@
+Note: Google Test filter = Test01.simpleTest1
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from Test01
+[ RUN      ] Test01.simpleTest1
+[       OK ] Test01.simpleTest1 (0 ms)
+[----------] 1 test from Test01 (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (0 ms total)
+[  PASSED  ] 1 test.
+
+Note: Google Test filter = Test02.simpleTest2
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from Test02
+[ RUN      ] Test02.simpleTest2
+[       OK ] Test02.simpleTest2 (0 ms)
+[----------] 1 test from Test02 (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (0 ms total)
+[  PASSED  ] 1 test.
+
+Note: Google Test filter = Test08.bigStrings
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from Test08
+[ RUN      ] Test08.bigStrings
+[       OK ] Test08.bigStrings (12 ms)
+[----------] 1 test from Test08 (12 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (12 ms total)
+[  PASSED  ] 1 test.
+
+Note: Google Test filter = Test01.simpleTest1
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from Test01
+[ RUN      ] Test01.simpleTest1
+[       OK ] Test01.simpleTest1 (0 ms)
+[----------] 1 test from Test01 (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (0 ms total)
+[  PASSED  ] 1 test.
+
+Note: Google Test filter = Test02.simpleTest2
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from Test02
+[ RUN      ] Test02.simpleTest2
+[       OK ] Test02.simpleTest2 (0 ms)
+[----------] 1 test from Test02 (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (0 ms total)
+[  PASSED  ] 1 test.
+
+Note: Google Test filter = Test08.bigStrings
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from Test08
+[ RUN      ] Test08.bigStrings
+[       OK ] Test08.bigStrings (9 ms)
+[----------] 1 test from Test08 (9 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (9 ms total)
+[  PASSED  ] 1 test.
+
+Note: Google Test filter = Test01.simpleTest1
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from Test01
+[ RUN      ] Test01.simpleTest1
+[       OK ] Test01.simpleTest1 (0 ms)
+[----------] 1 test from Test01 (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (0 ms total)
+[  PASSED  ] 1 test.
+
+Note: Google Test filter = Test02.simpleTest2
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from Test02
+[ RUN      ] Test02.simpleTest2
+[       OK ] Test02.simpleTest2 (0 ms)
+[----------] 1 test from Test02 (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (0 ms total)
+[  PASSED  ] 1 test.
+
+Note: Google Test filter = Test08.bigStrings
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from Test08
+[ RUN      ] Test08.bigStrings
+[       OK ] Test08.bigStrings (9 ms)
+[----------] 1 test from Test08 (9 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (9 ms total)
+[  PASSED  ] 1 test.
+
+Note: Google Test filter = Test01.simpleTest1
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from Test01
+[ RUN      ] Test01.simpleTest1
+[       OK ] Test01.simpleTest1 (0 ms)
+[----------] 1 test from Test01 (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (0 ms total)
+[  PASSED  ] 1 test.
+
+Note: Google Test filter = Test02.simpleTest2
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from Test02
+[ RUN      ] Test02.simpleTest2
+[       OK ] Test02.simpleTest2 (0 ms)
+[----------] 1 test from Test02 (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (0 ms total)
+[  PASSED  ] 1 test.
+
+Note: Google Test filter = Test08.bigStrings
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from Test08
+[ RUN      ] Test08.bigStrings
+[       OK ] Test08.bigStrings (10 ms)
+[----------] 1 test from Test08 (10 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (10 ms total)
+[  PASSED  ] 1 test.
+

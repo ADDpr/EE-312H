@@ -1,0 +1,72 @@
+
+
+
+/root/SuperStrings/grading/test_cases/Test01/
+--- expected_output.txt	2021-02-07 15:00:59.510000000 -0600
++++ actual_output.txt	2021-02-07 15:00:59.500000000 -0600
+@@ -1,46 +0,0 @@
+-******* Starting General Test *******
+-Hyello
+-wye
+-this
+-rtheequirements
+-this
+-wzithoutA
+-BanyC
+-purnctuation
+-wzithoutA
+-purnctuation
+-Intellectualization
+-fit
+-fit
+-fitt
+-benefit
+-rtheequirements
+-ofthe
+-rtheequirements
+-ofthe
+-rtheequirements
+-ofthe
+-project
+-Intellectualization
+-apart
+-witxing
+-this
+-wzithoutA
+-purnctuation
+-fit
+-fit
+-fitt
+-rtheequirements
+-Intellectualization
+-i
+-think
+-this
+-benefit
+-think
+-this
+-rtheequirements
+-this
+-has
+-some
+-benefit
+-****DONE****
+
+
+
+/root/SuperStrings/grading/test_cases/Test02/
+--- expected_output.txt	2021-02-07 15:00:59.520000000 -0600
++++ actual_output.txt	2021-02-07 15:00:59.510000000 -0600
+@@ -1,12 +0,0 @@
+-******* Starting General Test *******
+-bulldogx
+-bulldog
+-xbullxdogxx
+-abuxllORdoxgM
+-bulldogx
+-bulldog
+-bulldo
+-xbullxdogxx
+-abuxllORdoxgM
+-BcddffgsdkwWord
+-****DONE****
